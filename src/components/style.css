@@ -39,3 +39,29 @@ li:hover{
 .Links{
     color: white;
 }
+.cardDiv{
+    margin-top: 50px;
+  
+    width: 250px;
+    height: 300px;
+   border-radius: 5px;
+    border: 1px solid rgb(198, 198, 198);
+}
+img{
+    width: 100%;
+    object-fit: contain;
+
+}
+.cardDiv:hover{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    transform:scale(95%);
+}
+.cards{
+    width: 80%;
+    margin: auto;
+    flex-wrap: wrap;
+    display: flex;
+   justify-content: space-around;
+   align-items: center;
+  
+}

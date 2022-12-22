@@ -14,47 +14,47 @@ const Navbar = () => {
         </li>
         <li>
           {" "}
-          <Link className="Links" to="/">
+          <Link className="Links" to="/siyaset">
             Siyaset
           </Link>{" "}
         </li>
         <li>
           {" "}
-          <Link className="Links" to="/">
+          <Link className="Links" to="/iqtisadiyyat">
             Iqtisadiyyat
           </Link>
         </li>
         <li>
           {" "}
-          <Link className="Links" to="/">
+          <Link className="Links" to="/cemiyyet">
             Cemiyyet{" "}
           </Link>
         </li>
         <li>
           {" "}
-          <Link className="Links" to="/">
+          <Link className="Links" to="/sou-biznes">
             Sou-biznes{" "}
           </Link>
         </li>
         <li>
           {" "}
-          <Link className="Links" to="/">
+          <Link className="Links" to="/muharibe">
             Muharibe
           </Link>
         </li>
         <li>
           {" "}
-          <Link className="Links" to="/">
+          <Link className="Links" to="/idman">
             Idman
           </Link>
         </li>
 
         <li>
           {" "}
-          <Link className="Links" to="/">Kriminal  </Link>
+          <Link className="Links" to="/kriminal">Kriminal  </Link>
         </li>
 
-        <li> <Link className="Links" to="/">Medeniyyet</Link></li>
+        <li> <Link className="Links" to="/medeniyyet">Medeniyyet</Link></li>
         <li>
           <i class="fa-solid fa-bars"></i>
         </li>
