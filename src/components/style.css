@@ -57,11 +57,17 @@ img{
     transform:scale(95%);
 }
 .cards{
-    width: 80%;
+    width: 300px;
     margin: auto;
     flex-wrap: wrap;
     display: flex;
    justify-content: space-around;
    align-items: center;
   
+}
+.salam{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
 }

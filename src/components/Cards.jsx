@@ -12,7 +12,7 @@ const Cards = () => {
 
   return (
    
-    <div className="cards">
+    <div class="salam">
     {cards.map((card) => {
       return (
       
